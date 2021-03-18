@@ -10,4 +10,4 @@ This project consisted of performing a series of hypothesis tests based off ques
 
 -[Presentation](presentation.pdf): A document that outlines the insights gained from analzying the Northwind database in the form of a presentation. 
 
--[Video Walkthrough](https://drive.google.com/file/d/1FVwK6u7f3ofnqg9QjIkMXhlFsXGSLk13/view?usp=sharing): A video presentation of the results that were found after performing hypothesis testing on each of the 4 questions. 
+-[Video Walkthrough](https://drive.google.com/file/d/1UvWz4ZLBNwqBZgmpevKpNEdfzPNGT58c/view?usp=sharing): A video presentation of the results that were found after performing hypothesis testing on each of the 4 questions. 
